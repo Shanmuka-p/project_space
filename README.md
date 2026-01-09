@@ -2,7 +2,7 @@
 This project is used for the selection of project space oppurtunity
 First Project
 
-A new Flutter project.
+A new Flutter project with more technology use.
 
 ## Getting Started
 
